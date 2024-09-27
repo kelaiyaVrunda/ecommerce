@@ -45,3 +45,7 @@
 .handicraft a {
     text-decoration: none;
 }
+
+.nav-search {
+    flex-grow: 1;
+}
