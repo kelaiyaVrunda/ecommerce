@@ -49,3 +49,7 @@
 .dummey {
     display: flex;
 }
+
+.nav-search {
+    flex-grow: 1;
+}
